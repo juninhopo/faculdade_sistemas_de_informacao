@@ -94,7 +94,7 @@ A declaracao de variaveis em Java exige que o tipo da variavel seja declarado. V
 
 Operador | Uso | Descricao
 -----|-----|-----
-+ | op1 + op2 | Retorna a soma de op1 e op2
+Ex: + | op1 + op2 | Retorna a soma de op1 e op2
 
 
 
