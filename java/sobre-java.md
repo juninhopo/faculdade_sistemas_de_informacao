@@ -87,3 +87,18 @@ A declaracao de variaveis em Java exige que o tipo da variavel seja declarado. V
 - y = 1000; //atribuimos valor a Y
 - float f = 3.141516f; //ponto flutuante - utiliza o F no final do valor para nao confundir o compilar e informar que aquele valor de F e um <strong>FLOAT</strong>
 - double w - 3.2310834; //ponto flutuante - dupla precisao
+- char ch = 'a'; //Caractere
+- final int MAX = 9; //define a constante MAX com valor 9
+
+# Operador Aritmeticos
+
+Operador | Uso | Descricao
+ + | op1 + op2 | Retorna a soma de op1 e op2
+ - | op1 - op2 | Retorna a subtracao de op1 por op2
+ * | op1 * op2 | Retorna a multiplicacao de op1 por op2
+ / | op1 / op2 | Retorna a divisao de op1 por op2
+ % | op1 % op2 | Retorna o resto da divisao de op1 por op2
+ ++ | ++op | Incrementa op de 1, depois retorna o valor
+ ++ | op++ | Retorna o valor de op, depois o incrementa de 1
+ -- | --op | Decrementa op de 1, depois retorna o valor
+ -- | op-- | Retorna o valor de op, depois o decrementa de 1
