@@ -135,3 +135,8 @@ Ex: { //inicio de bloco<br/>
     ...<br/>
 } //fim de bloco
 
+# Escopo de variaveis
+
+- Escopo de uma variavel indica em que parte do codigo ou bloco de comandos do programa que podemos utilizar ou enxergar a varialvel. Existem variaveis locais e variaveis globais. O escopo define tambem quando a variavel sera criada e destruida da memoria. As locais estao visiveis apenas dentro do bloco enquanto as globais estao disponivel em qualquer bloco do programa.
+- Observacao: escopo e diferente de visibilidade, o qual se aplica as variaveis de classe e tem a ver com a utilizacao destas fora da classe.
+
