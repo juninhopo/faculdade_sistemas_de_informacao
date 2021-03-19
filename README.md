@@ -1,5 +1,9 @@
-# Faculdade :notebook: :handbag:
+# Tecnologia Geral :notebook: :handbag:
 
-Repositorio destinado a aulas do curso Sistemas de informacao.
+- Aqui voce vai encontrar variados assuntos.
 
-### Aqui voce pode aprender um pouquinho mais sobre algumas tecnologia e encontrar alguns materiais importantes.
+- Tem algo a dizer? Contribua com o maior repositorio de informacoes sobre tecnologia.
+
+### Pode nao ser agora, mas vamos chegar la. Topa?
+
+- Aqui voce pode aprender um pouquinho mais sobre algumas tecnologia e encontrar alguns materiais importantes.
