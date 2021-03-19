@@ -1,11 +1,8 @@
 # Utilizacoes e Aplicacoes do Java
 
 - Desenvolvimento de aplicativos corporativos de grande porte.
-
 - Desenvolvimento de aplicativos Web
-
 - Fornecimento de aplicativos para dispositivos voltados para o consumo popular (celulares, pagers, PDAs etc)
-
 - Entre isso existem muitos outros propositos
 
 # Como e o funcionamento do java?
@@ -30,13 +27,9 @@ Compilador - O compilador Java converte o codigo-fonte Java em bytecodes, que re
 # Tipos de Programas Java
 
 - Stand-Alone = Aplicacoes baseadas na J2SE que tem total acesso aos recursos do sistema, memoria, disco, rede, dispositivo, etc.
-
 - Java Applets = Pequenas aplicacoes que nao tem acesso aos recursos de hardware, necessitando de um navegador com suporte a J2SE para serem executados.
-
 - Java Serviets = Programas desenvolvidos para serem executados em servidores Web, baseados na J2EE, normalmente usados para gerar conteudo dinamicos para websites.
-
 - Java Midlets = Pequenas aplicacoes, extremamente seguras e construidas para serem executadas dentro do J2ME.
-
 - JavaBeans = Sao componentes de software escritos em Java que podem ser manipulados visualmente com a ajuda de uma ferramenta de desenvolvimento.
 
 # Como voce por ter um Ambiente de Programacao em Java?
@@ -54,11 +47,8 @@ As ferramentas basicas do kit de desenvolvimento Java sao:
 A linguagens de programacao Java e "Case sensitive". Existem varias convensoes utilizadas, sao elas:
 
 - Nomes de variaveis e metodos comecam com letras minusculas
-
 - Nomes de classes iniciam com letras maiusculas
-
 - Nomes compostos: utilizar letras maiusculas para as iniciais das palavras.
-
 - Letras maiusculas para as constantes
 
 Case sensitivity - Sensivel ao tamanho: em computacao significa que um programa ou um compilador faz a diferenciacao entre letras maiusculas e minusculas, ou seja,  Maiuscula e diferente de maiuscula. O sistema operacional linux e case sensitive bem como as linguagens C, Java, C Sharp entre outras.
@@ -68,9 +58,7 @@ Case sensitivity - Sensivel ao tamanho: em computacao significa que um programa 
 Existem tres formas de se inserir comentarios:
 
 - // Comentarios em uma linha
-
 - /* Comentario em uma ou mais linhas */
-
 - /** Documento comentarios */
 
 Quando o comentario tipo 3 e colocado imediatamente acima da declaracao (de uma funcao ou variavel), indica que o comentario podera ser incluido automaticamente em uma pagina HTML (gerado pelo comando javadoc - gerador de documentacao do JAVA).
