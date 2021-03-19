@@ -90,7 +90,7 @@ A declaracao de variaveis em Java exige que o tipo da variavel seja declarado. V
 - char ch = 'a'; //Caractere
 - final int MAX = 9; //define a constante MAX com valor 9
 
-# Operador Aritmeticos
+# Operadores Aritmeticos
 
 Operador | Uso | Descricao
 -----|-----|-----
