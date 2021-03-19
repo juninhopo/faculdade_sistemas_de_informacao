@@ -27,6 +27,18 @@ Carregador - Todo programa deve ser colocado na memoria antes de poder executar.
 
 Compilador - O compilador Java converte o codigo-fonte Java em bytecodes, que representam as tarefas a serem realizadas durante a fase de execucao. Os bytecodes sao executados pela Java Virtual Machine (JVM) - uma parte do JDK e a base da plataforma Java. A maquina virtual Java (VM - Virtual Machine) e um aplicativo de software que simula um computador, mas oculta o sitemas operacional e o hardware subjacentes dos programas que interagem com a VM.
 
+# Tipos de Programas Java
+
+- Stand-Alone = Aplicacoes baseadas na J2SE que tem total acesso aos recursos do sistema, memoria, disco, rede, dispositivo, etc.
+
+- Java Applets = Pequenas aplicacoes que nao tem acesso aos recursos de hardware, necessitando de um navegador com suporte a J2SE para serem executados.
+
+- Java Serviets = Programas desenvolvidos para serem executados em servidores Web, baseados na J2EE, normalmente usados para gerar conteudo dinamicos para websites.
+
+- Java Midlets = Pequenas aplicacoes, extremamente seguras e construidas para serem executadas dentro do J2ME.
+
+- JavaBeans = Sao componentes de software escritos em Java que podem ser manipulados visualmente com a ajuda de uma ferramenta de desenvolvimento.
+
 # Como voce por ter um Ambiente de Programacao em Java?
 
 O ambiente de desenvolvimento de software em Java, Java SDK (antigamente JDK), e formado, essencialmente, por um conjunto de aplicativos que permite, entre outras tarefas, realizar a compilacao e a execucao de programas escritos na linguagem Java. Este ambiente pode ser baixado gratuitamente a partir do site da Sun Microsystems http://java.sun.com
@@ -55,11 +67,11 @@ Case sensitivity - Sensivel ao tamanho: em computacao significa que um programa 
 
 Existem tres formas de se inserir comentarios:
 
-// Comentarios em uma linha
+- // Comentarios em uma linha
 
-/* Comentario em uma ou mais linhas */
+- /* Comentario em uma ou mais linhas */
 
-/** Documento comentarios */
+- /** Documento comentarios */
 
 Quando o comentario tipo 3 e colocado imediatamente acima da declaracao (de uma funcao ou variavel), indica que o comentario podera ser incluido automaticamente em uma pagina HTML (gerado pelo comando javadoc - gerador de documentacao do JAVA).
 
