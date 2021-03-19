@@ -1,4 +1,5 @@
-# Indice:
+# Escolha o assunto :smile:
+
 - [Utilizacoes e Aplicacoes do Java](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#utilizacoes-e-aplicacoes-do-java)
 - [Como e o funcionamento do java?](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#como-e-o-funcionamento-do-java)
 - [Tipos de Programas Java](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#tipos-de-programas-java)
@@ -22,7 +23,7 @@
 
 # Como e o funcionamento do java?
 
-Editor --> .java --> Compilador --> .class --> Carregador --> bytecodes --> Verificador --> bytecodes --> Interpretador
+#### Editor --> .java --> Compilador --> .class --> Carregador --> bytecodes --> Verificador --> bytecodes --> Interpretador
 
 Editor - E o local onde realiza a escrita (desenvolvimento) do programa (codigo fonte). Se faz necessario um editor de texto como o bloco de notas do Windows ou Vi do Linux (respeita meu VSCODE). Existem tambem os ambientes de desenvolvimento integrado (IDE = Integrated Development Enviroment) que fornecem muitas ferramentas de suporte ao processo de desenvolvimento de software em Java e outras linguagens.
 
