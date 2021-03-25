@@ -209,4 +209,15 @@ while (expressao)
     comando ou {bloco de comandos}
 ```
 
-- Enquanto a expressao for verdadeira, o comando sera executado. Quando a expressao falsa, o programa segue para o seu caminho normal.
+    - Enquanto a expressao for verdadeira, o comando sera executado. Quando a expressao falsa, o programa segue para o seu caminho normal.
+
+- Do - Faca
+
+```
+do
+    comando ou { bloco de comandos}
+while (expressao):
+```
+
+    - Faz comando enquanto a expressao for verdadeira. Quando a expressao for falsa, o programa segue para o seu caminho normal. A grande diferenca entre o do-while e o while, e que no laco do-while, o programa executa pelo menos uma vez o comando do laco.
+
