@@ -14,7 +14,8 @@
 - [Estruturas basicas de Programacao](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#estruturas-basicas-de-programacao)
 - [Escopo de variaveis](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#escopo-de-variaveis)
 - [Comando Condicional](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#comando-condicional)
-
+- [Desvio de Fluxo](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#desvio-de-fluxo)
+- [Estrutura de repeticao](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#estrutura-de-repeticao)
 
 # Inicio
 
@@ -194,5 +195,10 @@ switch (variavel)
 - Break: o comando termina a execucao de um loop sem executar o resto dos comando e forca a saida do laco.
 - Continue: o comando termina a execucao de um laco sem executar o resto dos comandos, voltando para o inicio do laco, para uma nova interacao.
 
+# Estrutura de repeticao (ou lacos)
 
+- Existem tres tipos de lacos:
+    - while
+    - do
+    - for
 
