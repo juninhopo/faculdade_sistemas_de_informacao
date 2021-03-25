@@ -162,7 +162,8 @@ Ex: { //inicio de bloco<br/>
 
 - Desvia o fluxo natural do programa de acordo com o resultado de um teste logico.
 
-```if (expressao booleada)
+```
+if (expressao booleada)
     comando1 ou (bloco de comandos1)
 else
     comando2 ou (bloco de comandos2)
