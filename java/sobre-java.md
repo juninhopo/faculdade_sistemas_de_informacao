@@ -147,11 +147,13 @@ Op \\|\\| | op1 \\|\\| op2 | se op1 ou op2 for verdadeiro
 
 - Conjunto de linhas de codigos situadas entre um abre e um fecha chaves ( {} ). E permitido criar blocos dentro de blocos.
 
+```
 Ex: { //inicio de bloco<br/>
     ...<br/>
     /*bloco de comandos*/<br/>
     ...<br/>
 } //fim de bloco
+```
 
 # Escopo de variaveis
 
