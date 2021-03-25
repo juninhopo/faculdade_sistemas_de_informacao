@@ -184,3 +184,11 @@ switch (variavel)
     default:comando_generico; break;
  }
 ```
+
+# Desvios de Fluxo
+
+- Existem dois tipos de desvios de fluxo 
+    - break;
+    - continue;
+
+- Break: o comando termina a execucao de um loop sem executar o resto dos comando e forca a saida do laco.
