@@ -13,6 +13,8 @@
 - [Operadores Relacionais](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#operadores-relacionais)
 - [Estruturas basicas de Programacao](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#estruturas-basicas-de-programacao)
 - [Escopo de variaveis](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#escopo-de-variaveis)
+- [Comando Condicional](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md)
+
 
 # Inicio
 
