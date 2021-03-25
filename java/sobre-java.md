@@ -14,8 +14,8 @@
 - [Estruturas basicas de Programacao](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#estruturas-basicas-de-programacao)
 - [Escopo de variaveis](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#escopo-de-variaveis)
 - [Comando Condicional](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#comando-condicional)
-- [Desvio de Fluxo](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#desvio-de-fluxo)
-- [Estrutura de repeticao](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#estrutura-de-repeticao)
+- [Desvios de Fluxo](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#desvios-de-fluxo)
+- [Estrutura de Repeticao](https://github.com/juninhopo/tec_geral/blob/main/java/sobre-java.md#estrutura-de-repeticao)
 
 # Inicio
 
